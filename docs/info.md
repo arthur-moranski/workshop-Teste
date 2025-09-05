@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Well, it works like this, with the right sequence of switches you can make THE NUMBER SEVEN
 
 ## How to test
 
-Explain how to use your project
+To achieve this feat you need to leave switch 1 and 2 on, 3 off, 4 and 5 on and finally NUMBER 7 off
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I basically used what's in the template, except what's between the inputs and outputs. In this part I used an AND, an OR, and two NOTs.
