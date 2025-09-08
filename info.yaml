@@ -4,7 +4,8 @@ project:
   title:        "Disparity detector"      # Project title
   author:       "Arthur"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Is a Switches disparity detector"      # One line description of what your project does
+  description:  "It is a Switch disparity detector, when there is an odd number of Switches onn it will turn off Parity"      
+  # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -26,7 +27,7 @@ pinout:
   ui[7]: "IN7"
 
   # Outputs
-  uo[0]: "OUT0"
+  uo[0]: "Parity"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
