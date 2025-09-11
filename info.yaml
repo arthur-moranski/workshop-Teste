@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     441564414591667201       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Disparity detector"      # Project title
+  title:        "tt-parity-detector"      # Project title
   author:       "Arthur"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "It is a Switch disparity detector, when there is an odd number of Switches onn it will turn off Parity"      
+  description:  "It is a Switch parity detector, when there is an odd number of Switches onn it will turn off Parity"      
   # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
